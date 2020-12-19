@@ -1,0 +1,4 @@
+"D:\CLion\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=G:/QtSetup/Tools/mingw530_32/bin/mingw32-make.exe -DCMAKE_C_COMPILER=G:/QtSetup/Tools/mingw530_32/bin/gcc.exe -DCMAKE_CXX_COMPILER=G:/QtSetup/Tools/mingw530_32/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" E:\CFiles\DataStructure\recursion
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/CFiles/DataStructure/recursion/cmake-build-debug

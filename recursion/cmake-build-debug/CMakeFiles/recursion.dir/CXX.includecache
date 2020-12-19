@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/CFiles/DataStructure/recursion/findx.h
+string
+-
+
+E:/CFiles/DataStructure/recursion/gcd.h
+
+E:/CFiles/DataStructure/recursion/main.cpp
+iostream
+-
+gcd.h
+E:/CFiles/DataStructure/recursion/gcd.h
+findx.h
+E:/CFiles/DataStructure/recursion/findx.h
+subset.h
+E:/CFiles/DataStructure/recursion/subset.h
+
+E:/CFiles/DataStructure/recursion/subset.h
+iostream
+-
+iterator
+-
+

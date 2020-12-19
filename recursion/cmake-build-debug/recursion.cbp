@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="recursion"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/CFiles/DataStructure/recursion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="G:/QtSetup/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;E:/CFiles/DataStructure/recursion/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="G:/QtSetup/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;E:/CFiles/DataStructure/recursion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/QtSetup/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;E:/CFiles/DataStructure/recursion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/QtSetup/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;E:/CFiles/DataStructure/recursion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="recursion">
+				<Option output="E:/CFiles/DataStructure/recursion/cmake-build-debug/recursion.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CFiles/DataStructure/recursion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="G:/QtSetup/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include"/>
+					<Add directory="G:/QtSetup/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include-fixed"/>
+					<Add directory="G:/QtSetup/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="G:/QtSetup/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++"/>
+					<Add directory="G:/QtSetup/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32"/>
+					<Add directory="G:/QtSetup/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="G:/QtSetup/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;E:/CFiles/DataStructure/recursion/cmake-build-debug/Makefile&quot;  VERBOSE=1 recursion"/>
+					<CompileFile command="G:/QtSetup/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;E:/CFiles/DataStructure/recursion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/QtSetup/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;E:/CFiles/DataStructure/recursion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/QtSetup/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;E:/CFiles/DataStructure/recursion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="recursion/fast">
+				<Option output="E:/CFiles/DataStructure/recursion/cmake-build-debug/recursion.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/CFiles/DataStructure/recursion/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="G:/QtSetup/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include"/>
+					<Add directory="G:/QtSetup/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include-fixed"/>
+					<Add directory="G:/QtSetup/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="G:/QtSetup/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++"/>
+					<Add directory="G:/QtSetup/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32"/>
+					<Add directory="G:/QtSetup/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="G:/QtSetup/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;E:/CFiles/DataStructure/recursion/cmake-build-debug/Makefile&quot;  VERBOSE=1 recursion/fast"/>
+					<CompileFile command="G:/QtSetup/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;E:/CFiles/DataStructure/recursion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/QtSetup/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;E:/CFiles/DataStructure/recursion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/QtSetup/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;E:/CFiles/DataStructure/recursion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/CFiles/DataStructure/recursion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="G:/QtSetup/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;E:/CFiles/DataStructure/recursion/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="G:/QtSetup/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;E:/CFiles/DataStructure/recursion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/QtSetup/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;E:/CFiles/DataStructure/recursion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/QtSetup/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;E:/CFiles/DataStructure/recursion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/CFiles/DataStructure/recursion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="G:/QtSetup/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;E:/CFiles/DataStructure/recursion/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="G:/QtSetup/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;E:/CFiles/DataStructure/recursion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="G:/QtSetup/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;E:/CFiles/DataStructure/recursion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="G:/QtSetup/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;E:/CFiles/DataStructure/recursion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/CFiles/DataStructure/recursion/f.h">
+			<Option target="recursion"/>
+		</Unit>
+		<Unit filename="E:/CFiles/DataStructure/recursion/fibonacci.h">
+			<Option target="recursion"/>
+		</Unit>
+		<Unit filename="E:/CFiles/DataStructure/recursion/findx.h">
+			<Option target="recursion"/>
+		</Unit>
+		<Unit filename="E:/CFiles/DataStructure/recursion/gcd.h">
+			<Option target="recursion"/>
+		</Unit>
+		<Unit filename="E:/CFiles/DataStructure/recursion/main.cpp">
+			<Option target="recursion"/>
+		</Unit>
+		<Unit filename="E:/CFiles/DataStructure/recursion/subset.h">
+			<Option target="recursion"/>
+		</Unit>
+		<Unit filename="E:/CFiles/DataStructure/recursion/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
